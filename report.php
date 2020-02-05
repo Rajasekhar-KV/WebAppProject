@@ -1,6 +1,6 @@
 <?php 
 
-include("test.php");
+include("dbcon.php");
 
 $query="select user_id,fname,lname,email,status,created_date,lastupdt_date from users";
 
