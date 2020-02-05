@@ -1,5 +1,5 @@
 <?php
-include("test.php");
+include("dbcon.php");
 
 //print "<pre>";print_r($_POST);print "</pre>";die;
 //print_r($_POST);
