@@ -1,6 +1,6 @@
 <?php 
 
-include ("test.php");
+include ("dbcon.php");
 $userid = $_GET['user_id'];
 
 //$query = "delete from users where user_id = $userid";
